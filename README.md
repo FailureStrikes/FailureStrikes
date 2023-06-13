@@ -1,6 +1,6 @@
 - Hi, I’m Towhidul Alam Ishraq
 - I’m interested in Data science and Machine learning.
-- I’m currently learning Data processing,Fundamentals of Data Manipulation with Python.
+
 
 
 <!---
